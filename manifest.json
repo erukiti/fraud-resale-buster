@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "アマゾンで詐欺や転売を許さない",
   "description": "私たちはアマゾンで詐欺や転売を許しません",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "content_scripts": [
     {
       "matches": [
